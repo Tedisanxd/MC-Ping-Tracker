@@ -1,5 +1,5 @@
 {
-  "server": "napvp.us",
+  "server": "",
   "port": 25565,
   "ping_interval": 2.0,
   "lag_threshold": 200,
@@ -7,8 +7,8 @@
   "notify_threshold": 300,
   "theme": "midnight",
   "window_geometry": "1707x996+-2000+-18",
-  "webhook_url": "https://discord.com/api/webhooks/1481433184326647929/Oc4l7q5Ta7qpmuwJ1G41P_j6Q9fFcH1Mny1AK_jvhrB--lbjXipfYH0OYVUo8YENa8Tr",
-  "webhook_enabled": true,
+  "webhook_url": "",
+  "webhook_enabled": false,
   "webhook_spikes": true,
   "webhook_offline": true,
   "webhook_online": true,
